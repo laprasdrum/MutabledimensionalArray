@@ -1,5 +1,6 @@
 How It Works
 -----------
+    #import "NSMutableArray+Multidimension.h"
 
     NSMutableArray *twoDimensionArray = [NSMutableArray initWithWidth:4 height:3];
     
