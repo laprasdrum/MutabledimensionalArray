@@ -17,7 +17,4 @@
 - (id) valueForWidth:(int)width height:(int)height;
 - (void) setObject:(id)obj width:(int)width height:(int)height;
 
-- (void) setWidth:(int)width;
-- (void) setHeight:(int)height;
-
 @end
